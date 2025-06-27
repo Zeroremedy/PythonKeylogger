@@ -1,15 +1,20 @@
 # How To Install The Key Logger 
 ✅ Step 1: Install Python (from https://python.org)
+
 ✅ Step 2: Install pynput:
 
 pip install pynput
+
 ✅ Step 3: Save your script as keylogger.py or keylogger.pyw
+
 ✅ Step 4: Run it:
 
 Normal (shows console):
+
 python keylogger.py
 
 Hidden (no console on Windows):
+
 pythonw keylogger.pyw
 
 LEGAL NOTICE
